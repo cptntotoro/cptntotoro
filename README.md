@@ -1,4 +1,4 @@
-👋 Aspiring Java Developer.  
+👋 Personal portfolio of an aspiring Java Developer.  
 
 👀 I've been writing articles on the dev topics for a while, which you might enjoy: 
 - I was recognized as a top writer of 2021 on dev.to: https://dev.to/coffeestasia 
