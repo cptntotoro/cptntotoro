@@ -1,5 +1,6 @@
 ## 💫 Aspiring Java Developer
-At 16, I was told that women are not welcome in programming. 10 years later, I couldn't help but become one 🦸‍♀️
+At 16, I was told that women are not welcome in programming. 10 years later, I couldn't help but become one 🦸‍♀️ <br>
+I used to work as a Marketing Specialist at software companies (SaaS), but a few years ago I started to pursue my childhood dream of becoming a programmer.
 
 ## 🌐 Socials:
 I was recognized as a top writer of 2021 on dev.to and have been a writer for a few Medium publications:
