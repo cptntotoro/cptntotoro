@@ -17,7 +17,7 @@ I was recognized as a top writer of 2021 on dev.to and have been a writer for a 
 ![JUnit](https://img.shields.io/badge/-junit-000000?style=for-the-badge&logo=junit&logoColor=C60000)
 ![JUnit](https://img.shields.io/badge/-Maven-000000?style=for-the-badge&logo=apache&logoColor=e38873)
 <br>
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
