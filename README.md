@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 Aspiring Java Developer
 At 16, I was told that women are not welcome in programming. 10 years later, I couldn't help but become one 🦸‍♀️
 
 ## 🌐 Socials:
