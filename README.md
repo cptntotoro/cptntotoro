@@ -3,10 +3,10 @@ At 16, I was told that women are not welcome in programming. 10 years later, I c
 I used to work as a Marketing Specialist at software companies (SaaS), but a few years ago I started to pursue my childhood dream of becoming a programmer.
 
 ## 🌐 Socials:
-I was recognized as a top writer of 2021 on dev.to and have been a writer for a few Medium publications:
+I'm a proud Top 7 Writer of 2021 and Moderator on dev.to and a writer for a few Medium publications:
 <br>
+[![dev.to](https://img.shields.io/badge/Dev.to-12100E?logo=dev.to&logoColor=white)](https://dev.to/coffeestasia) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@coffeestasia) 
-[![Medium](https://img.shields.io/badge/Dev.to-12100E?logo=dev.to&logoColor=white)](https://medium.com/@https://medium.com/@coffeestasia) 
 
 ## 💻 Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=e38873)
