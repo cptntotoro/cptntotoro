@@ -15,7 +15,6 @@ I used to work as a Marketing Specialist at software companies (SaaS), but a few
 ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=90fd87)
 ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
 ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
-<br>
 ![Jira](https://img.shields.io/badge/jira-%230B5ED4.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%230B5ED4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
