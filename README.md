@@ -1,11 +1,10 @@
-## 💫 Aspiring Java Developer
-At 16, I was told that women are not welcome in programming. 10 years later, I couldn't help but become one 🦸‍♀️
+## 💫 Java разработчик
+В 16 мне сказали, что девушки не приветствуются в программировании. 11 лет спустя я решилась получить профессию мечты 🦸‍♀️
+В данный момент, совершенствую знания Backend-разработки, а затем планирую развиваться в направлении Full-Stack разработки
 
-I used to work as a Marketing Specialist at software companies (SaaS), but a few years ago I started to pursue my childhood dream of becoming a web developer.
+⭐️ **Интересный факт:** Я пишу статьи для разработчиков, являюсь Топ 7 Писателем 2021 и модератором [dev.to](https://dev.to/coffeestasia) и [пишу на Medium](https://medium.com/@https://medium.com/@coffeestasia)
 
-⭐️ **Fun fact:** I'm a proud Top 7 Writer of 2021 and Moderator on [dev.to](https://dev.to/coffeestasia) and a [writer on Medium](https://medium.com/@https://medium.com/@coffeestasia)
-
-## 💻 Languages and Tools:
+## 💻 Мой стек:
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
 ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=90fd87) 
 ![Postgres](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
