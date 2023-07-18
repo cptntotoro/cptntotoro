@@ -3,7 +3,11 @@
 
 В данный момент я совершенствую знания Backend-разработки, а затем планирую развиваться в направлении Full-Stack разработки
 
-⭐️ **Интересный факт:** Я являюсь Топ 7 Писателем 2021 и модератором [dev.to](https://dev.to/coffeestasia) и [пишу на Medium](https://medium.com/@https://medium.com/@coffeestasia)
+⭐️ **Интересный факт:** Я являюсь Топ 7 Писателем 2021 и модератором [dev.to](https://dev.to/coffeestasia) и [пишу на Medium](https://medium.com/@https://medium.com/@coffeestasia):
+
+- [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://dev.to/actitime/how-to-build-a-great-developer-portfolio-examples-tools-bkj)
+- [How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f)
+- [20 Most Common Time Management Problems & Solutions ⚡](https://dev.to/actitime/20-most-common-time-management-problems-solutions-3abb)
 
 ## 💻 Мой стек:
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
