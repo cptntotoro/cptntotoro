@@ -9,6 +9,8 @@
 - [How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f)
 - [20 Most Common Time Management Problems & Solutions](https://dev.to/actitime/20-most-common-time-management-problems-solutions-3abb)
 
+![]([https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873](https://media.licdn.com/dms/image/C4E2DAQE4qcuKtCdv2Q/profile-treasury-image-shrink_800_800/0/1677747337635?e=1692104400&v=beta&t=OjF3ZQZIRJwRu2RP_LEoH761uKqng8iUZDPDcMTm9nY))
+
 ## 💻 Мой стек:
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
 ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=90fd87) 
