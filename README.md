@@ -21,8 +21,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=90fd87)
 ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
 ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
+![HTML](https://img.shields.io/badge/HTML-E96125?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1C84C1?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230B5ED4.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%230B5ED4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
