@@ -1,6 +1,8 @@
 ## 💫 Java разработчик
 В 16 мне сказали, что девушки не приветствуются в программировании. А теперь я занимаюсь профессией мечты 🦸‍♀️
 
+📚 **Сейчас читаю:** Pro Spring MVC with WebFlux. Web Development in Spring Framework 5 and Spring Boot 2. Marten Deinum, Iuliana Cosmina
+
 ⭐️ **Интересный факт:** Я являюсь Топ 7 Писателем 2021 и модератором [dev.to](https://dev.to/coffeestasia) и [пишу на Medium](https://medium.com/@https://medium.com/@coffeestasia):
 
 - [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://dev.to/actitime/how-to-build-a-great-developer-portfolio-examples-tools-bkj)
