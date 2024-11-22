@@ -1,7 +1,6 @@
-## 💫 Java разработчик
-В 16 мне сказали, что девушки не приветствуются в программировании. А теперь я занимаюсь профессией мечты 🦸‍♀️
+## Java разработчик 🦸‍♀️
 
-📚 **Сейчас читаю:** Pro Spring MVC with WebFlux. Web Development in Spring Framework 5 and Spring Boot 2. Marten Deinum, Iuliana Cosmina
+📚 **Сейчас читаю:** Философия Java. Брюс Эккель
 
 ⭐️ **Интересный факт:** Я являюсь Топ 7 Писателем 2021 и модератором [dev.to](https://dev.to/coffeestasia) и [пишу на Medium](https://medium.com/@https://medium.com/@coffeestasia):
 
@@ -12,21 +11,11 @@
 ![](https://github.com/cptntotoro/cptntotoro/blob/main/top-author-devto-2021.jpg?raw=true)
 
 ## 💻 Мой стек:
-![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
-![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=90fd87) 
-![Postgres](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
-![Hibernate](https://img.shields.io/badge/-Hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=717c88)
-![RestAPI](https://img.shields.io/badge/-rest%20api-007EC0?style=for-the-badge&logo=restapi&logoColor=275ecf)
-![Maven](https://img.shields.io/badge/-Maven-7D2675?style=for-the-badge&logo=apache&logoColor=e38873)
-![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=90fd87)
-![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
-![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
-![HTML](https://img.shields.io/badge/HTML-E96125?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1C84C1?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F29111?style=for-the-badge&logo=javascript&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230B5ED4.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Confluence](https://img.shields.io/badge/confluence-%230B5ED4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Back-end: ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-717c88?style=for-the-badge&logo=hibernate&logoColor=white) ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000) ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87) 
+### Database: ![Postgres](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
+### API: ![RestAPI](https://img.shields.io/badge/-rest%20api-007EC0?style=for-the-badge&logo=restapi&logoColor=275ecf) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-6AAD3D?style=for-the-badge&logo=swagger&logoColor=white)
+### Build automation: ![Maven](https://img.shields.io/badge/-Maven-7D2675?style=for-the-badge&logo=apache&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-032D39?style=for-the-badge&logo=gradle&logoColor=white)
+### DevOps: ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-CB3631?style=for-the-badge&logo=jenkins&logoColor=white) ![Lens](https://img.shields.io/badge/-Lens-27519C?style=for-the-badge&logo=lens&logoColor=white)
+### Front-end: ![HTML](https://img.shields.io/badge/HTML-E96125?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1C84C1?style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F29111?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptntotoro&layout=compact)
