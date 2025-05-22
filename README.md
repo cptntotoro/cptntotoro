@@ -1,7 +1,5 @@
 ## Java разработчик 🦸‍♀️
 
-📚 **Философия Java. Брюс Эккель** 
-
 ⭐️ **Top 7 Author 2021 и модератор [dev.to](https://dev.to/coffeestasia)** 
 
 - [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://dev.to/actitime/how-to-build-a-great-developer-portfolio-examples-tools-bkj)
