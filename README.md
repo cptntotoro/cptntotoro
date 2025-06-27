@@ -1,6 +1,6 @@
-## Java разработчик 🦸‍♀️
+## Full-Stack Java разработчик 🦸‍♀️
 
-⭐️ **Top 7 Author 2021 и модератор [dev.to](https://dev.to/coffeestasia)** 
+⭐️ **Top 7 Author 2021 и модератор [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/coffeestasia)** 
 
 - [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://dev.to/actitime/how-to-build-a-great-developer-portfolio-examples-tools-bkj)
 - [How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f)
@@ -9,11 +9,48 @@
 ![](https://github.com/cptntotoro/cptntotoro/blob/main/top-author-devto-2021.jpg?raw=true)
 
 ## 💻 Мой стек:
-### Back-end: ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-717c88?style=for-the-badge&logo=hibernate&logoColor=white) ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000) ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87) 
-### Database: ![Postgres](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
-### API: ![RestAPI](https://img.shields.io/badge/-rest%20api-007EC0?style=for-the-badge&logo=restapi&logoColor=275ecf) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-6AAD3D?style=for-the-badge&logo=swagger&logoColor=white)
-### Build automation: ![Maven](https://img.shields.io/badge/-Maven-7D2675?style=for-the-badge&logo=apache&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-032D39?style=for-the-badge&logo=gradle&logoColor=white)
-### DevOps: ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-CB3631?style=for-the-badge&logo=jenkins&logoColor=white) ![Lens](https://img.shields.io/badge/-Lens-27519C?style=for-the-badge&logo=lens&logoColor=white)
-### Front-end: ![HTML](https://img.shields.io/badge/HTML-E96125?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1C84C1?style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F29111?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptntotoro&layout=compact)
+### Back-end:
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JUnit-6DB33F?logo=junit&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Mockito-6DB33F?logo=mockito&logoColor=fff"> 
+
+### Front-end:
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+
+### Database:
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+
+### API:
+<img src="https://img.shields.io/badge/REST%20API-007EC0?logo=restapi&logoColor=275ecf"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> 
+<img src="https://img.shields.io/badge/Swagger-6AAD3D?logo=swagger&logoColor=white"> 
+
+### Build automation:
+<img src="https://img.shields.io/badge/-Maven-7D2675?logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-032D39?logo=gradle&logoColor=white">
+
+### DevOps:
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Lens-27519C?logo=lens&logoColor=white"> 
+
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=cptntotoro&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=cptntotoro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## 🌐 Контакты
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anastasiasafronova/) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/cptn_molly)
