@@ -31,6 +31,6 @@
 ## 🌐 Contacts
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anastasiasafronova/) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/cptn_molly)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/java_captain)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cptntotoro)
